@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton V1.6
+Sample Java Applicaiton V1.8
 ravi change
 
